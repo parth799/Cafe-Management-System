@@ -1,0 +1,56 @@
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.vbproj.AssemblyReference.cache
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe_Management_System.Items.resources
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe_Management_System.Login.resources
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe_Management_System.Resources.resources
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe_Management_System.Orders.resources
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe_Management_System.ViewOrders.resources
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.vbproj.GenerateResource.cache
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.AssemblyInfoInputs.cache
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.AssemblyInfo.vb
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.vbproj.CoreCompileInputs.cache
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\Cafe Management System.exe
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\Cafe Management System.deps.json
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\Cafe Management System.runtimeconfig.json
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\Cafe Management System.dll
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\Cafe Management System.pdb
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.dll
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\refint\Cafe Management System.dll
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.pdb
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.genruntimeconfig.cache
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\ref\Cafe Management System.dll
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\parth\.NET fremwork\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.vbproj.CopyComplete
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\Cafe Management System.exe
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\Cafe Management System.deps.json
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\Cafe Management System.runtimeconfig.json
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\Cafe Management System.dll
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\Cafe Management System.pdb
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.vbproj.AssemblyReference.cache
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe_Management_System.Items.resources
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe_Management_System.Login.resources
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe_Management_System.Resources.resources
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe_Management_System.Orders.resources
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe_Management_System.ViewOrders.resources
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.vbproj.GenerateResource.cache
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.AssemblyInfoInputs.cache
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.AssemblyInfo.vb
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.vbproj.CoreCompileInputs.cache
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.vbproj.CopyComplete
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.dll
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\refint\Cafe Management System.dll
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.pdb
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\Cafe Management System.genruntimeconfig.cache
+E:\parth\.NET\pr1\Cafe Management System\Cafe Management System\obj\Debug\net7.0-windows\ref\Cafe Management System.dll
